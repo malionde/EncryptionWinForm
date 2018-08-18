@@ -1,0 +1,9 @@
+c:\users\mehmeto\documents\visual studio 2015\Projects\27_06_Encryption\27_06_Encryption\bin\Debug\27_06_Encryption.exe.config
+c:\users\mehmeto\documents\visual studio 2015\Projects\27_06_Encryption\27_06_Encryption\obj\Debug\27_06_Encryption.csprojResolveAssemblyReference.cache
+c:\users\mehmeto\documents\visual studio 2015\Projects\27_06_Encryption\27_06_Encryption\obj\Debug\_27_06_Encryption.Encryption.resources
+c:\users\mehmeto\documents\visual studio 2015\Projects\27_06_Encryption\27_06_Encryption\obj\Debug\_27_06_Encryption.Properties.Resources.resources
+c:\users\mehmeto\documents\visual studio 2015\Projects\27_06_Encryption\27_06_Encryption\obj\Debug\27_06_Encryption.csproj.GenerateResource.Cache
+c:\users\mehmeto\documents\visual studio 2015\Projects\27_06_Encryption\27_06_Encryption\bin\Debug\27_06_Encryption.exe
+c:\users\mehmeto\documents\visual studio 2015\Projects\27_06_Encryption\27_06_Encryption\bin\Debug\27_06_Encryption.pdb
+c:\users\mehmeto\documents\visual studio 2015\Projects\27_06_Encryption\27_06_Encryption\obj\Debug\27_06_Encryption.exe
+c:\users\mehmeto\documents\visual studio 2015\Projects\27_06_Encryption\27_06_Encryption\obj\Debug\27_06_Encryption.pdb
