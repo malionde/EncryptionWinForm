@@ -84,7 +84,7 @@ namespace _27_06_Encryption
             }
             
             txt_Result.Text = decodedText;
-            lbl_result.Text = "Decrypted Text";
+            lbl_result.Text = "Decrypted";
 
         }
         }
